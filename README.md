@@ -9,7 +9,8 @@ Sockets Links.
  server .
 4. Send and receive the message using the send function in socket.
 ## PROGRAM
-DEVELOPED BY : SHANMUGA RAJ.K REG NO : 212223040192
+Developed by:Vineela Shaik<br>
+RegisterNumber:212223040243
 
 CLIENT
 ```
